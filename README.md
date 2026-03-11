@@ -8,9 +8,9 @@ A lightweight, production-ready Human Resource Management System built with Reac
 
 | | URL |
 |---|---|
-| Frontend | https://hrms-lite.vercel.app |
-| Backend API | https://hrms-backend.onrender.com |
-| Health Check | https://hrms-backend.onrender.com/api/health |
+| Frontend | https://hrms-black-tau.vercel.app/ |
+| Backend API | https://hrms-backend-mpjz.onrender.com |
+| Health Check | https://hrms-backend-mpjz.onrender.com/api/health |
 
 ---
 
